@@ -1,5 +1,5 @@
 <a href="https://github.com/seidzurov">
-  <img src="https://github.com/yourcoldeyes/assets/blob/main/banner%201.png" alt="
+  <img src="https://github.com/yourcoldeyes/assets/blob/main/banner.png" alt="
       seidzurov" align="center"/>
 </a>
 
