@@ -13,6 +13,10 @@
 
 Frontend Developer from Uzbekistan :uzbekistan:
 
+<br>
+
+<br>
+
 - :office: &nbsp;I'm currently working at **[Upwork](https://upwork.com/freelancers/mirakbarnormatov)**
 - :eyes: &nbsp;Here's my **[instagram](https://www.instagram.com/seidzurov)**
 - :airplane: &nbsp;Chat to me in **[Telegram](https://t.me/seidzurov)**
