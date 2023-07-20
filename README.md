@@ -3,16 +3,18 @@
       seidzurov" align="center"/>
 </a>
 
-<h1 align="left">:wave: Salam Aleikum! Call me just - Mars</h1>
+<br>
 
-<h2 align="left" id="seidzurov">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seidzurov)](https://github.com/anuraghazra/github-readme-stats)</h2>
+<h1 align="left">:wave: Salam Aleikum! I'm Mars</h1>
+
+<br>
 
 <br>
 
 Frontend Developer from Uzbekistan :uzbekistan:
 
 - :office: &nbsp;I'm currently working at **[Upwork](https://upwork.com/freelancers/mirakbarnormatov)**
-- :popcorn: &nbsp;My **[instagram channel](https://www.instagram.com/seidzurov)**
+- :eyes: &nbsp;Here's my **[instagram](https://www.instagram.com/seidzurov)**
 - :airplane: &nbsp;Chat to me in **[Telegram](https://t.me/seidzurov)**
 
 <h2 align="left" id="seidzurov">🔥 Tech stack</h2>
