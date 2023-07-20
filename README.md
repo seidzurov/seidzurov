@@ -117,7 +117,13 @@ Frontend Developer from Uzbekistan :uzbekistan:
       </a>
       <br>Next JS
     </td>
- <td align="center" width="110" height="90">
+    <td align="center" width="110" height="90">
+      <a href="#seidzurov">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="36" height="36" alt="Vue JS" />
+      </a>
+      <br>Vue JS
+    </td>
+    <td align="center" width="110" height="90">
       <a href="#seidzurov" >
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
       </a>
@@ -129,7 +135,7 @@ Frontend Developer from Uzbekistan :uzbekistan:
       </a>
       <br>Mobx
     </td>
-     <td align="center" width="110" height="90">
+    <td align="center" width="110" height="90">
       <a href="#seidzurov">
         <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="36" height="36" alt="Material UI" />
       </a>
