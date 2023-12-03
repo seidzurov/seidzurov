@@ -15,8 +15,8 @@ Frontend Developer from Uzbekistan :uzbekistan:
 
 
 - :office: &nbsp;I'm currently working at **[Upwork](https://upwork.com/freelancers/mirakbarnormatov)**
-- :eyes: &nbsp;Here's my **[instagram](https://www.instagram.com/seishiromars)**
-- :airplane: &nbsp;Chat to me in **[Telegram](https://t.me/seishiromars)**
+- :eyes: &nbsp;Here's my **[instagram](https://www.instagram.com/qqowmars)**
+- :airplane: &nbsp;Chat to me in **[Telegram](https://t.me/qqowmars)**
 
 <h2 align="left" id="seidzurov">🔥 Tech stack</h2>
 
@@ -232,7 +232,7 @@ Frontend Developer from Uzbekistan :uzbekistan:
 
 ## ☄️ Contact
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/seishiromars)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/seishiromars)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/qqowmars)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/qqowmars)
 
 <br>
